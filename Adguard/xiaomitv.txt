@@ -1,6 +1,5 @@
 #屏蔽小米开机广告--代码开始
 ||ad.mi.com
-||api.io.mi.com
 ||ad.xiaomi.com
 ||api.ad.xiaomi.com
 ||ad1.xiaomi.com
