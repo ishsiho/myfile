@@ -1,0 +1,11 @@
+payload:
+  # > DaWangIDC
+  - DOMAIN-SUFFIX,dawangidc.com
+  - DOMAIN,dawangidc.com
+  # > 自定义
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-KEYWORD,themoviedb
+  - DOMAIN,themoviedb.org
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-KEYWORD,thetvdb
+  - DOMAIN,thetvdb.com
