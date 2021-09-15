@@ -5,13 +5,13 @@ const signbodyKey = 'senku_signbody_iboy1069'
 const senku = init()
 const signurlVal = senku.getdata(signurlKey)
 const signheaderVal = senku.getdata(signheaderKey)
-const signBodyVal = senku.getdata(signbodyKey)
+//const signBodyVal = senku.getdata(signbodyKey)
 
 sign()
 
 function sign() {
-  const url = { url: signurlVal, headers: JSON.parse(signheaderVal), body: signBodyVal }
-  senku.post(url, (error, response, data) => {
+  const url = { url: signurlVal, headers: JSON.parse(signheaderVal) /*, body: signBodyVal*/ }
+  senku.get(url, (error, response, data) => {
     const result = JSON.parse(data)
     const total = result.data['task.revisionSignInGetAward'].total
     const ret = result.data['task.revisionSignInGetAward'].ret
