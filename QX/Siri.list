@@ -1,12 +1,12 @@
 # > Look Up (查询, macOS, Wikipedia, Surge Enhance Mode enabled required)
-# PROCESS-NAME,LookupViewService,🌑Proxy
-# PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService,🌑Proxy
-# DOMAIN,lookup-api.apple.com,🌑Proxy
-DOMAIN,lookup-api.apple.com.edgekey.net,🌑Proxy
-DOMAIN,e16991.b.akamaiedge.net,🌑Proxy
+# PROCESS-NAME,LookupViewService,🍎Siri
+# PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService,🍎Siri
+# DOMAIN,lookup-api.apple.com,🍎Siri
+DOMAIN,lookup-api.apple.com.edgekey.net,🍎Siri
+DOMAIN,e16991.b.akamaiedge.net,🍎Siri
 # > Look Up (查询, macOS, Wikipedia, Surge Enhance Mode enabled required)
-# PROCESS-NAME,LookupViewService,PROXY
-# PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService,PROXY
-# DOMAIN,lookup-api.apple.com,PROXY
-DOMAIN,lookup-api.apple.com.edgekey.net,PROXY
-DOMAIN,e16991.b.akamaiedge.net,PROXY
+# PROCESS-NAME,LookupViewService,🍎Siri
+# PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService,🍎Siri
+# DOMAIN,lookup-api.apple.com,🍎Siri
+DOMAIN,lookup-api.apple.com.edgekey.net,🍎Siri
+DOMAIN,e16991.b.akamaiedge.net,🍎Siri
