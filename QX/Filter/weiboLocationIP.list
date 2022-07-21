@@ -1,5 +1,5 @@
 # > 发微博触发 IP 识别
-URL-REGEX,^https?:\/\/api\.weibo\.cn\/2\/statuses\/send\?
+URL-REGEX, ^https?:\/\/api\.weibo\.cn\/2\/statuses\/send\?, 社交定位
 
 # > 评论触发 IP 识别
-URL-REGEX,^https:\/\/api\.weibo\.cn\/2\/comments\/create\?
+URL-REGEX, ^https:\/\/api\.weibo\.cn\/2\/comments\/create\?, 社交定位
