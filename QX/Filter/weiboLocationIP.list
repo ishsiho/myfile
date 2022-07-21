@@ -1,0 +1,5 @@
+# > 发微博触发 IP 识别
+URL-REGEX,^https?:\/\/api\.weibo\.cn\/2\/statuses\/send\?
+
+# > 评论触发 IP 识别
+URL-REGEX,^https:\/\/api\.weibo\.cn\/2\/comments\/create\?
