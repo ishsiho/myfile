@@ -1,6 +1,6 @@
 # https://raw.githubusercontent.com/ishsiho/myfile/master/QX/Filter/LocationIP.list
 # 哔哩哔哩IP定位接口
-host, api.bilibili.com, 社交定位
+# host, api.bilibili.com, 社交定位
 # 知乎IP定位接口
 ip-cidr, 103.41.167.0/24, 社交定位
 # 微博IP定位接口
